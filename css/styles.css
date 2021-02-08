@@ -63,6 +63,8 @@ a:hover{
   text-decoration: underline;
   font-weight: normal;
   font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+
 }
 .top-cloud {
   position: absolute;
@@ -100,7 +102,16 @@ float: left;
 .edu-img1{
 float: right;
 }
+.edu-description{
+  clear: left;
+  margin: 20px 10px 0 0;
 
+}
+.edu-description2{
+  clear:right;
+  margin: 20px 0 0 10px;
+
+}
 
 
 .skill-row{
