@@ -103,12 +103,10 @@ float: left;
 float: right;
 }
 .edu-description{
-  clear: left;
   margin: 20px 10px 0 0;
 
 }
 .edu-description2{
-  clear:right;
   margin: 20px 0 0 10px;
 
 }
